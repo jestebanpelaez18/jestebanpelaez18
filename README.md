@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jestebanpelaez18&label=Profile%20views&color=0e75b6&style=flat" alt="jestebanpelaez18" /> </p>
 
-- 🔭 I’m currently working on [CPP_Modules](https://github.com/jestebanpelaez18/42Course-Cpp_Modules)
+- 🔭 I’m currently working on **[ft_irc](https://github.com/ynslee/ft_irc)** 
 
 - 🌱 I’m currently learning **C++, Python and Data Science with Python**
 
