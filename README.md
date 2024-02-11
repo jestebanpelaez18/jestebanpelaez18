@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Juanes !!</h1>
-<h3 align="center">Software engineer from Spain currently living in Helsinki, Finland and student in Hive Helsinki !</h3>
+<h1 align="center">Hi there👋, I'm Juanes !!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jestebanpelaez18&label=Profile%20views&color=0e75b6&style=flat" alt="jestebanpelaez18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jestebanpelaez18&label=Profile%20views&color=0e75b6&style=flat" alt="jestebanpelaez18" /> </p>
+I transitioned from studying Mechanical Engineering to entering the world of coding when I moved from Malaga, Spain to Helsinki to pursue Software Engineering at Hive Helsinki ! I've always found stats fascinating, and I enjoy keeping up with NBA and football games in my free time. This interest naturally led me to focus on Python and Data Science. Additionally, I've developed a curiosity for Hacking and Cybersecurity – there's something intriguing about dip into that world.
 
 - 🔭 I’m currently working on **[ft_irc](https://github.com/ynslee/ft_irc)** in collab with [ysnlee](https://github.com/ysnlee) and [hussojo](https://github.com/hussojo)
 
