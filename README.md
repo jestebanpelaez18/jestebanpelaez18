@@ -13,13 +13,13 @@ I transitioned from studying Mechanical Engineering to entering the world of cod
 
 <h3 align="left">About Me</h3>
 
-- My name is Juan Esteban, but you can call me Juanes! 🐈
+- 🐈 My name is Juan Esteban, but you can call me Juanes!
 
-- I don't want to say that I'm a gym rat, but I love working out; it's just part of my routine. 🏋🏻‍♂️
+- 🏋🏻‍♂️ I don't want to say that I'm a gym rat, but I love working out; it's just part of my routine.
 
-- My secret hobby is cooking, and I guess I'm pretty good at it. 🍳
+- 🍳My secret hobby is cooking, and I guess I'm pretty good at it.
   
-- I'm all about exploring new cultures and savoring delicious eats, especially by the sea. Traveling and feeling the ocean's pull is where I'm at my happiest. 🌊✈️
+- 🌊✈️ I'm all about exploring new cultures and savoring delicious eats, especially by the sea. Traveling and feeling the ocean's pull is where I'm at my happiest. 
 
 <h3 align="left">Notable Projects</h3>
 
