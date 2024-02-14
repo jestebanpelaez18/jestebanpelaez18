@@ -9,7 +9,7 @@ I transitioned from studying Mechanical Engineering to entering the world of cod
 
 - 📫 How to reach me [Linkedin](https://linkedin.com/in/www.linkedin.com/in/juan-esteban-pelaez-hoyos-123465162)
 
-- ⚡ Fun fact: My philosophy? Eat, sleep, gym, code, and repeat!
+- ⚡ Fun fact: Eat, sleep, gym, code, and repeat
 
 <h3 align="left">About Me</h3>
 
@@ -17,7 +17,7 @@ I transitioned from studying Mechanical Engineering to entering the world of cod
 
 - 🏋🏻‍♂️ I don't want to say that I'm a gym rat, but I love working out; it's just part of my routine.
 
-- 🍳My secret hobby is cooking, and I guess I'm pretty good at it.
+- 🍳My secret hobby is cooking.
   
 - 🌊✈️ I'm all about exploring new cultures and savoring delicious eats, especially by the sea. Traveling and feeling the ocean's pull is where I'm at my happiest. 
 
