@@ -27,8 +27,7 @@ These are some of the notable projects I've worked on:
 
 - [Minishell](https://github.com/jestebanpelaez18/42Course-Minishell.git): This project aims to develop a user-friendly shell, essentially a simplified version inspired by the bash shell. Implemented in C and leveraging Unix system calls, it optimizes processes and file descriptors. This shell empowers users with capabilities such as redirections, piping, executable execution, and seamless handling of quotes, environment variables, and shell expansions. Furthermore, it offers versatility by supporting various types of signals, enhancing your command-line experience. 
 
-- [Cub3D](https://github.com/jestebanpelaez18/Cub3d.git):
-  
+- [Cub3D](https://github.com/jestebanpelaez18/Cub3d.git): This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. mplemented in C and employing fundamental algorithms, our endeavor delves into the realm of ray-casting. The objective is to create an immersive view within a maze, challenging you to navigate and discover your path forward
 - [Philosophers](https://github.com/jestebanpelaez18/42Course-Philosophers.git):
 
 - [Push Swap](https://github.com/jestebanpelaez18/42Course-push_swap.git):
