@@ -25,7 +25,7 @@ I transitioned from studying Mechanical Engineering to entering the world of cod
 
 These are some of the notable projects I've worked on:
 
-- [Minishell](https://github.com/jestebanpelaez18/42Course-Minishell.git):
+- [Minishell](https://github.com/jestebanpelaez18/42Course-Minishell.git): This project aims to develop a user-friendly shell, essentially a simplified version inspired by the bash shell. Implemented in C and leveraging Unix system calls, it optimizes processes and file descriptors. This shell empowers users with capabilities such as redirections, piping, executable execution, and seamless handling of quotes, environment variables, and shell expansions. Furthermore, it offers versatility by supporting various types of signals, enhancing your command-line experience. 
 
 - [Cub3D](https://github.com/jestebanpelaez18/Cub3d.git):
   
