@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jestebanpelaez18&label=Profile%20views&color=0e75b6&style=flat" alt="jestebanpelaez18" /> </p>
 I transitioned from studying Mechanical Engineering to entering the world of coding when I moved from Malaga, Spain to Helsinki to pursue Software Engineering at Hive Helsinki ! I've always found stats fascinating, and I enjoy keeping up with NBA and football games in my free time. This interest naturally led me to focus on Python and Data Science. Additionally, I've developed a curiosity for Hacking and Cybersecurity – there's something intriguing about dip into that world.
 
-- 🔭 I’m currently working on **[Inception](https://github.com/jestebanpelaez18/42Course-Inception.git)**
+- 🔭 I’m currently working on **[Ft_trascendence](https://github.com/jestebanpelaez18/ft_transcendence.git)** in colab with @rushmaverick
 
 - 🌱 I’m currently learning **C++, Cybersecurity, Python and Data Science with Python**
 
