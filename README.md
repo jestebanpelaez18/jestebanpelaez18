@@ -37,7 +37,7 @@ These are some of the notable projects I've worked on:
 
 <h3 align="left"> 🛠 Languages and Tools:</h3> 
 
-![Languages and Tools](https://skillicons.dev/icons?i=c,cpp,git,github,bash,linux,py,vscode,arduino,emacs)
+![Languages and Tools](https://skillicons.dev/icons?i=c,cpp,git,github,bash,linux,py,vscode,arduino,emacs,docker)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jestebanpelaez18&show_icons=true&locale=en&layout=compact" alt="jestebanpelaez18" /></p>
 
