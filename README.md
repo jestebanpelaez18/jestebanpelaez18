@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Juanes !!</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jestebanpelaez18&label=Profile%20views&color=0e75b6&style=flat" alt="jestebanpelaez18" /> </p>
-I transitioned from studying Mechanical Engineering to entering the world of coding when I moved from Malaga, Spain to Helsinki to pursue Software Engineering at Hive Helsinki ! I've always found stats fascinating, and I enjoy keeping up with NBA and football games in my free time. This interest naturally led me to focus on Python and Data Science. Additionally, I've developed a curiosity for Hacking and Cybersecurity.
+I transitioned from studying Mechanical Engineering to entering the world of coding when I moved from Malaga, Spain to Helsinki to pursue Software Engineering at Hive Helsinki ! I've always found stats fascinating, and I enjoy keeping up with NBA and football games in my free time. This interest naturally led me to focus on Python and Data Engineering and Data Scinece. Additionally, I've developed a curiosity for Hacking and Cybersecurity.
 
 - 🔭 I’m currently working on **[Ft_trascendence](https://github.com/jestebanpelaez18/ft_transcendence.git)** in colab with [Rasmus Rask](https://github.com/RushMaverick), [Teemu Spoof](https://github.com/Stte), [Sunny](https://github.com/ynslee) and [Rosa](https://github.com/rosamakinen)
 
@@ -25,6 +25,8 @@ I transitioned from studying Mechanical Engineering to entering the world of cod
 
 These are some of the notable projects I've worked on:
 
+
+- [Trascendence](https://github.com/jestebanpelaez18/ft_transcendence): This project is about creating a website for the Pong contest, where users could play Pong with others in real-time multiplayer online games. The website included features like user management and authentication, friends lists, user profiles, tournaments, and support for multiple languages. Django was enforced as the backend framework, and PostgreSQL was used as the only database.
 - [Ft_IRC](https://github.com/jestebanpelaez18/ft_irc): This project involves creating an Internet Relay Chat (IRC) server and connecting it to an IRC client for reference. With IRSSI serving as the IRC client reference, the objective is to test the implemented IRC server with the referenced client. Additionally, handle multiple connected clients and the communication between client and server, done via TCP/IP.
 - [Inception](https://github.com/jestebanpelaez18/42Course-Inception): A project focused on exploring the world of system administration using Docker. This project involves virtualizing and managing multiple Docker images within a personal virtual machine. It aims to deepen the understanding of containerization and enhance skills in managing and orchestrating systems in practical, real-world scenarios.
 - [Minishell](https://github.com/jestebanpelaez18/42Course-Minishell.git): This project aims to develop a user-friendly shell, essentially a simplified version inspired by the bash shell. Implemented in C and using Unix system calls, it optimizes processes and file descriptors. In this shell you will be able to use redirections, piping, executable execution, and seamless handling of quotes, environment variables, and shell expansions. Furthermore, it offers versatility by supporting various types of signals, enhancing your command-line experience. 
