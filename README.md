@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jestebanpelaez18&label=Profile%20views&color=0e75b6&style=flat" alt="jestebanpelaez18" /> </p>
 I transitioned from studying Mechanical Engineering to entering the world of coding when I moved from Malaga, Spain to Helsinki to pursue Software Engineering at Hive Helsinki ! I've always found stats fascinating, and I enjoy keeping up with NBA and football games in my free time. This interest naturally led me to focus on Python and Data Engineering and Data Scinece. Additionally, I've developed a curiosity for Hacking and Cybersecurity.
 
-- 🔭 I’m currently working on **[Ft_trascendence](https://github.com/jestebanpelaez18/ft_transcendence.git)** in colab with [Rasmus Rask](https://github.com/RushMaverick), [Teemu Spoof](https://github.com/Stte), [Sunny](https://github.com/ynslee) and [Rosa](https://github.com/rosamakinen)
+- 🔭 I’m currently pursuing IBM Data Engineer Professional Certification and working in another side project. 
 
 - 🌱 I’m currently learning **C++, Cybersecurity, Python and Data Science with Python**
 
