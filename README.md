@@ -3,7 +3,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jestebanpelaez18&label=Profile%20views&color=0e75b6&style=flat" alt="jestebanpelaez18" /> </p>
 I transitioned from studying Mechanical Engineering to the world of software development and data engineering when I moved from Málaga, Spain to Helsinki to pursue Software Engineering at Hive Helsinki. I've always found stats fascinating, and I enjoy keeping up with NBA and football games in my free time. This interest naturally led me to focus on data processing, analytics, and backend development and led me to explore areas like Data Engineering, Data Science, and Web Development. I enjoy working with Python, SQL, and data processing tools, building ETL pipelines, database management systems, and API-driven applications. My experience includes working with relational databases (PostgreSQL, MySQL, SQLite), data visualization with Seaborn & Matplotlib, and backend development using Django and Node.js.
 
-Outside of coding, I love analyzing NBA and football stats, applying data-driven insights to follow game trends and team performances. My curiosity for data-driven solutions and scalable web applications fuels my continuous learning in Python, SQL, and backend technologies."
 
 - 🔭 I’m currently pursuing IBM Data Engineer Professional Certification and working in another side project. 
 
