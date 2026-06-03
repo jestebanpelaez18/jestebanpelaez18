@@ -64,5 +64,6 @@ These are some of the notable projects I've worked on:
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jestebanpelaez18&show_icons=true&locale=en" alt="jestebanpelaez18" /></p>
+[![Juanes's GitHub stats](https://github-readme-stats.vercel.app/api?username=jestebanpelaez18&show_icons=true&locale=en&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+
 
